@@ -1,0 +1,5 @@
+atria@atria.edu|0|0
+bangalore@bangalore.edu|392|108
+bms@bms.edu|200|60
+ramaiah@ramaiah.edu|96|28
+rns@rns.edu|303|84

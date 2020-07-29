@@ -1,0 +1,4 @@
+2|Ramaiah Institute of Technology|85.00|86000|Bangalore|9536521478|ramaiah@ramaiah.edu|www.ramaiah.com
+4|RNS Institute of Technology|60.00|150000|Bangalore|9658745236|rns@rns.edu|www.rns.com
+5|Bangalore Institute of Technology|80.00|86000|Bangalore|8547152369|bangalore@bangalore.edu|www.bangalore.com
+6|Clg1|60.0|86000|Mangalore|8547125639|clg@clg.edu|www.clg.edu

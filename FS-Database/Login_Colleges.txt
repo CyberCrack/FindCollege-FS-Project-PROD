@@ -1,0 +1,5 @@
+1|atria@atria.edu|password
+2|ramaiah@ramaiah.edu|password
+3|bms@bms.edu|password
+4|rns@rns.edu|password
+5|bangalore@bangalore.edu|password

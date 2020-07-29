@@ -1,0 +1,3 @@
+1|Mayank||Anuragi|1999-09-28|Male|20|9611779656|mayankanuragi2013@gmail.com|Bangalore
+3|Manoj||Galanki|1999-04-03|Male|21|9148963822|manojgalanki@gmail.com|Bangalore
+4|Ajay||Kumar|1992-1-1|Male|28|2547856932|stud1@gmail.com|Mangalore

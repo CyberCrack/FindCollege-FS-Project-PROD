@@ -1,0 +1,4 @@
+2|ramaiah@ramaiah.edu|password
+4|rns@rns.edu|password
+5|bangalore@bangalore.edu|password
+6|clg@clg.edu|password

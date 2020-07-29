@@ -1,0 +1,38 @@
+<<USAGE>>
+<Filename> - <Field Represented-index>|<Field Represented-index>...
+Useful when we read the file and want to extract the information into different variables.
+EXAMPLE:
+Let the variable lineRead contain "1|Mayank||Anuragi|1999-09-28||Male||9611779656|mayankanuragi2013@gmail.com|Bangalore"
+If we want the <fname> then use <index-1> after calling the split method on the lineRead.
+String fname = lineRead.split("\\|")[1]
+NOTE: Pointers.txt contains the pos of the respective <ID> on each of the files.
+EXAMPLE:
+Let the variable lineRead contain "2|86|36|3|21" from StudentPointers.txt
+This means that for the given student with <id-2> have record at <pos-86> in <Student.txt>, at <pos-36> in Login_Colleges.txt and so on.
+<<USAGE>>
+
+Students.txt - student_id-0|fname-1|mname-2|lname-3|dob-4|gender-5|age-6|contact-7|email-8|location-9
+
+Colleges.txt - college_id-0|cname-1|min_percentage-2|fees-3|location-4|contact-5|email-6|website-7
+
+Login_Colleges.txt - college_id-0|email-1|passwrd-2
+
+Login_Students.txt - student_id-0|email-1|passwrd-2
+
+Marks.txt - student_id-0|english-1|hindi_kannada-2|maths-3|physics-4|chemistry-5|computer_biology-6|total_marks-7|percentage-8
+
+College_IDs.txt - college_id-0
+
+College_Name_ID.txt - cname-0|college_id-1
+
+Student_IDs.txt - student_id-0
+
+CollegePointers.txt - college_id-0|pos-Colleges.txt-1|pos-Login_Colleges.txt-2|pos-College_IDs.txt-3
+
+CollegesPointerEmail.txt - email-0|pos-Colleges.txt-1|pos-Login_Colleges.txt-2
+
+CollegesPointerName.txt - cname-0|pos-Colleges.txt-1
+
+StudentPointers.txt - student_id-0|pos-Students.txt-1|pos-Login_Students.txt-2|pos-Student_IDs.txt-3|pos-Marks.txt-4
+
+StudentsPointerEmail.txt - email-0|pos-Students.txt-1|pos-Login_Students.txt-2

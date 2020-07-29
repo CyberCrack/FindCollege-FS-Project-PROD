@@ -1,0 +1,6 @@
+Atria Institute of Technology|1
+BMS Institute of Technology and Management|3
+Bangalore Institute of Technology|5
+Clg1|6
+RNS Institute of Technology|4
+Ramaiah Institute of Technology|2

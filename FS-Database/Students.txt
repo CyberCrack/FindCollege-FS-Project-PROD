@@ -1,0 +1,3 @@
+1|Mayank||Anuragi|1999-09-28|Male||9856587458|mayankanuragi2013@gmail.com|Bangalore
+2|Rakshit||Naik|1999-05-27|Male||97458965214|rakshitnaik79@gmail.com|Bangalore
+3|Manoj||Galanki|1999-04-03|Male||9587458965|manojgalanki@gmail.com|Bangalore
